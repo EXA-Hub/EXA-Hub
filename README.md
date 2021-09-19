@@ -1,3 +1,14 @@
+- 👋 Hi, I’m @EXA-Hub
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+EXA-Hub/EXA-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ## 👋 Introduction
 I am an undergraduate student from <strong>northeastern university</strong>, currently living in <strong>john street new york usa</strong> and working towards a combined <a href="http://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-concentration-music-composition-technology-bs/">Bachelor's Degree in Computer Science &  Composition and Technology</a> from the Khoury College of Computer Sciences at <a href="https://www.khoury.northeastern.edu/"> Khoury College </a><strong>Northeastern University</strong>. I am passionate about software and web development and have previously developed as a Build Studio Engineer for <a href="https://web.northeastern.edu/generate/">Generate Product Development</a>
 where I received exposure to project management, user outreach, and UI/UX design. I currently work as a DevOps Software Engineer Co-op for <a href="https://www.ibm.com/cloud/openpages-with-watson">IBM OpenPages</a>.
