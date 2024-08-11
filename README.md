@@ -2,7 +2,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EXA-Hub&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&layout=compact&theme=dark)
-[![My Discord](https://discord-readme-badge-mu.vercel.app/api?id=635933198035058700)](https://discord.gg/ejYNZwDVHH)
+[![My Discord User](https://discord-readme-badge-mu.vercel.app/api?id=635933198035058700)](https://discord.com/users/635933198035058700)
+[![My Discord Server](https://discord.com/api/guilds/699024005721489589/widget.png?style=banner2)](https://discord.gg/ejYNZwDVHH)
 ![](https://activity-graph.herokuapp.com/graph?username=EXA-Hub&theme=github)
 ![](https://github-profile-trophy.vercel.app/?username=EXA-Hub&theme=dracula&margin-w=15&margin-h=15&no-frame=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=nord_dark)
