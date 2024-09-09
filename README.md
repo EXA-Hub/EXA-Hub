@@ -1,5 +1,3 @@
-![](https://zampx.glitch.me/images/myapp.jpg)
-
 <p align="center" ><img src="https://profile-counter.glitch.me/EXA-Hub/count.svg" /></p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EXA-Hub&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
