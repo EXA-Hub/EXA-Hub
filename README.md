@@ -7,19 +7,19 @@
 
 ### Activity & Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanudhatirosh&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXA-Hub&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanudhatirosh&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanudhatirosh&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EXA-Hub&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXA-Hub&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
 </p>
 
 ### Languages & Productivity
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanudhatirosh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" width="31%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanudhatirosh&theme=tokyonight&utcOffset=8" width="31%" alt="Productivity"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanudhatirosh&theme=tokyonight" width="31%" alt="Repos per Language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" width="31%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EXA-Hub&theme=tokyonight&utcOffset=8" width="31%" alt="Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=tokyonight" width="31%" alt="Repos per Language"/>
 </p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EXA-Hub&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
