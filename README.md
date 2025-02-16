@@ -27,7 +27,11 @@
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EXA-Hub&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-![](https://github-profile-trophy.vercel.app/?username=EXA-Hub&theme=dracula&margin-w=15&margin-h=15&no-frame=true)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=EXA-Hub&theme=dracula&margin-w=10&margin-h=10&no-frame=true" style="max-width: 90%; height: auto;" alt="GitHub Trophies"/>
+</div>
+
 
 [![My Discord User](https://discord-readme-badge-mu.vercel.app/api?id=635933198035058700)](https://discord.com/users/635933198035058700)
 [![My Discord Server](https://discord.com/api/guilds/699024005721489589/widget.png?style=banner2)](https://discord.gg/ejYNZwDVHH)
