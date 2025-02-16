@@ -17,20 +17,19 @@
 ### Languages & Productivity
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" width="31%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EXA-Hub&theme=tokyonight&utcOffset=8" width="31%" alt="Productivity"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=tokyonight" width="31%" alt="Repos per Language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" width="25%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EXA-Hub&theme=tokyonight&utcOffset=8" width="25%" alt="Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=tokyonight" width="25%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EXA-Hub&theme=tokyonight" width="25%" alt="Repos per Language"/>
 </p>
 
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EXA-Hub&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&layout=compact&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=EXA-Hub&theme=dracula&margin-w=15&margin-h=15&no-frame=true)
+
 [![My Discord User](https://discord-readme-badge-mu.vercel.app/api?id=635933198035058700)](https://discord.com/users/635933198035058700)
 [![My Discord Server](https://discord.com/api/guilds/699024005721489589/widget.png?style=banner2)](https://discord.gg/ejYNZwDVHH)
-![](https://activity-graph.herokuapp.com/graph?username=EXA-Hub&theme=github)
-![](https://github-profile-trophy.vercel.app/?username=EXA-Hub&theme=dracula&margin-w=15&margin-h=15&no-frame=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EXA-Hub&theme=nord_dark)
-![](https://github-readme-stats.vercel.app/api?username=EXA-Hub&count_private=true&show_icons=true&theme=react)
+
 
 
 <h2>
