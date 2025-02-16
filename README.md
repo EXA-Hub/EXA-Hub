@@ -17,10 +17,12 @@
 ### Languages & Productivity
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" width="25%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EXA-Hub&theme=tokyonight&utcOffset=8" width="25%" alt="Productivity"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=tokyonight" width="25%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EXA-Hub&theme=tokyonight" width="25%" alt="Repos per Language"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXA-Hub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" style="width: 45%;" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EXA-Hub&theme=tokyonight&utcOffset=8" style="width: 45%;" alt="Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXA-Hub&theme=tokyonight" style="width: 45%;" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EXA-Hub&theme=tokyonight" style="width: 45%;" alt="Most Commit Language"/>
+</div>
 </p>
 
 
